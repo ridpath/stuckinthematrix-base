@@ -27,14 +27,14 @@ Use it to practice:
 - Educational sandbox for CTFs or classroom binary labs  
 
 ---
-## ▶️ Try the Executable (Windows)
+## ▶️ Try the Alpha Executable (Windows)
 
 If you just want to **play the game** without installing Python or any dependencies:
 
 1. Download the latest release from the [Releases page](https://github.com/ridpath/stuckinthematrix-base/releases)
 3. Double-click `matrix.exe` 
 4. Play!
-
+> ⚠️ This is an experimental version — expect bugs and unfinished systems.
 > ⚠️ Windows Defender might show a warning since the file is unsigned. Click "More info" → "Run anyway".
 
 ---
