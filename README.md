@@ -22,7 +22,6 @@ Use it to practice:
 ### 🧪 Features
 
 - Partial Zelda-style game world base: movement, combat, enemies, magic, UI  
-- `config.py`: unlock 100+ cheat toggles for **hacking practice**  
 - Reverse engineering targets: cheat-protected features, unlockables, conditional logic  
 - **Real-time modding** via memory manipulation  
 - Educational sandbox for CTFs or classroom binary labs  
