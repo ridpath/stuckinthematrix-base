@@ -1,10 +1,11 @@
-## 🧠 Stuck in the Matrix - Pygame Hackable RPG
+## Stuck in the Matrix - Pygame Hackable RPG
 
-> 🌀 A modifiable, reverse-engineerable Zelda-style RPG sandbox for teaching binary analysis, memory editing, and game hacking.
+> A modifiable, reverse-engineerable Zelda-style RPG sandbox for teaching binary analysis, memory editing, and game hacking.
 
+⚠️ **Alpha Release** — unstable features, experimental modules, and active development. 
 ---
 
-### 🎮 About
+### About
 
 **Stuck in the Matrix** is a fork and creative transformation of [`pyzelda-rpg`](https://github.com/artemshchirov/pyzelda-rpg), expanded into a hacking-friendly game engine built in Python using Pygame.
 
@@ -19,7 +20,7 @@ Use it to practice:
 
 ---
 
-### 🧪 Features
+### Features
 
 - Partial Zelda-style game world base: movement, combat, enemies, magic, UI  
 - Reverse engineering targets: cheat-protected features, unlockables, conditional logic  
@@ -27,7 +28,7 @@ Use it to practice:
 - Educational sandbox for CTFs or classroom binary labs  
 
 ---
-## ▶️ Try the Alpha Executable (Windows)
+## Try the Alpha Executable (Windows)
 
 If you just want to **play the game** without installing Python or any dependencies:
 
@@ -54,11 +55,11 @@ python code/main.py
 ![image_2022-11-28_01-22-10](https://user-images.githubusercontent.com/78075439/204165230-b9c48243-f1b8-4906-8088-5a5233865587.png)
 
 
-## 🧬 Hackable Toggles (CTF Reverse Engineering)
+## Hackable Toggles (CTF Reverse Engineering)
 
 Find and patch in memory — to change behavior.
 
-🔐 Sample toggles include:
+Sample toggles include:
 
 god_mode
 
@@ -83,16 +84,16 @@ Designed for analysis with: IDA, Cheat Engine, frida, gdb, x64dbg
 ## 🔍 Educational Uses
 🔧 Game hacking 101 (Cheat Engine / memory patching)
 
-🧠 RE challenges / CTF warmups
+RE challenges / CTF warmups
 
-🧬 Binary diffing / function discovery
+Binary diffing / function discovery
 
-🎯 Memory signature scanning
+Memory signature scanning
 
-🏫 Teaching intro RE in a visual, interactive way
+Teaching intro RE in a visual, interactive way
 
 
-##🧾 Attribution
+##  Attribution
 This project is based on and forked from:
 
 🧩 Original Repository: artemshchirov/pyzelda-rpg
