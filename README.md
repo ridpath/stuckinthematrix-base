@@ -2,7 +2,7 @@
 
 > A modifiable, reverse-engineerable Zelda-style RPG sandbox for teaching binary analysis, memory editing, and game hacking.
 
-⚠️ **Alpha Release** — unstable features, experimental modules, and active development. 
+⚠️ **Alpha Release** — unstable features, experimental modules, and active development. built in 8 hours for a rapid development challenge. Expect bugs, unfinished levels, and experimental features.
 ---
 
 ### About
